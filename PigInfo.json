@@ -4,7 +4,7 @@
     "Location": "Eastern Africa, primarily in Kenya and Somalia",
     "Details": "The desert warthog (Phacochoerus aethiopicus) is characterized by its large tusks and distinctive facial warts. They inhabit arid and semi-arid regions and are well adapted to these harsh environments.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/desertwarthog.jpg",
-    "Population": Their exact population is not well documented but is considered stable in protected areas.,
+    "Population": 3000,
     "Latitude": -1.2921,
     "Longitude": 36.8219
   },
@@ -13,7 +13,7 @@
     "Location": "Worldwide, originally from the United States",
     "Details": "Duroc pigs are red in color, known for their excellent growth rate and feed efficiency. They have a calm disposition and are often used in crossbreeding for meat production.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/durocpig.jpg",
-    "Population": A prevalent breed in commercial pig farming globally.,
+    "Population": 5000000,
     "Latitude": 40.7128,
     "Longitude": -74.0060
   },
@@ -22,7 +22,7 @@
     "Location": "Sub-Saharan Africa, from the Congo Basin to the African Great Lakes",
     "Details": "The giant forest hog (Hylochoerus meinertzhageni) is the largest wild member of the pig family. They have a robust body, dark hair, and prominent tusks. They inhabit dense forests and are mainly nocturnal.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/giantforestpig.jpg",
-    "Population": Considered uncommon, with populations stable in some areas and declining in others due to habitat loss.,
+    "Population": 150000,
     "Latitude": -0.2280,
     "Longitude": 15.8277
   },
@@ -31,7 +31,7 @@
     "Location": "Worldwide, originally from the United States",
     "Details": "Duroc pigs are red in color, known for their excellent growth rate and feed efficiency. They have a calm disposition and are often used in crossbreeding for meat production.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/hampshirepig.jpg",
-    "Population": Widely used in commercial pig farming due to their desirable traits.,
+    "Population": 2000000,
     "Latitude": 37.0902,
     "Longitude": -95.7129
   },
@@ -40,7 +40,7 @@
     "Location": "United Kingdom",
     "Details": "The Oxford Sandy and Black, also known as the "Plum Pudding Pig," is one of the oldest British pig breeds. They are sandy-colored with black patches.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/oxfordsandyandblack.jpg",
-    "Population": Considered a rare breed, with conservation efforts to increase their numbers,
+    "Population": 1500,
     "Latitude": 51.7520,
     "Longitude": -1.2577
   },
@@ -49,7 +49,7 @@
     "Location": "West and Central Africa",
     "Details": "The red river hog (Potamochoerus porcus) is a colorful wild pig with a reddish coat, black legs, and distinctive white markings on the face and back.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/redriverhog.jpg",
-    "Population": Common in their range, with stable populations.,
+    "Population": 450000,
     "Latitude": 5.6037,
     "Longitude": -0.1870
   },
@@ -58,7 +58,7 @@
     "Location": "Togian Islands, Indonesia",
     "Details": "The Togian babirusa (Babyrousa togeanensis) is a wild pig species known for its distinctive tusks, which can grow upwards and even penetrate the skin",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/togianbabirusa.jpg",
-    "Population": Considered vulnerable due to habitat loss and hunting,
+    "Population": 3500,
     "Latitude": -0.4000,
     "Longitude": 121.8833
   },
@@ -67,7 +67,7 @@
     "Location": "Sub-Saharan Africa",
     "Details": "The warthog (Phacochoerus africanus) is known for its large tusks and facial warts. They inhabit savannas, grasslands, and woodlands",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/warthog.jpg",
-    "Population": Common and widespread in protected areas,
+    "Population": 275000,
     "Latitude": -25.7479,
     "Longitude": 28.2293
   },
@@ -76,7 +76,7 @@
     "Location": "Europe, Asia, and North Africa; introduced to other regions worldwide",
     "Details": "The wild boar (Sus scrofa) has a bristly coat, prominent tusks, and a robust body. They are highly adaptable and inhabit forests, grasslands, and agricultural areas.",
     "Image": "https://raw.githubusercontent.com/tokoloshe6/PigApp/main/wildboar.jpg",
-    "Population": A prevalent breed in commercial pig farming globally.,
+    "Population": 7000000,
     "Latitude": 48.8566,
     "Longitude": 2.3522
   }

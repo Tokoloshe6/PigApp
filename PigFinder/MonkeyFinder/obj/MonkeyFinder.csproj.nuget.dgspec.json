@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\MonkeyFinder\\MonkeyFinder\\MonkeyFinder.csproj": {}
+    "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\PigFinder\\MonkeyFinder\\MonkeyFinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\MonkeyFinder\\MonkeyFinder\\MonkeyFinder.csproj": {
+    "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\PigFinder\\MonkeyFinder\\MonkeyFinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\MonkeyFinder\\MonkeyFinder\\MonkeyFinder.csproj",
+        "projectUniqueName": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\PigFinder\\MonkeyFinder\\MonkeyFinder.csproj",
         "projectName": "MonkeyFinder",
-        "projectPath": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\MonkeyFinder\\MonkeyFinder\\MonkeyFinder.csproj",
+        "projectPath": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\PigFinder\\MonkeyFinder\\MonkeyFinder.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\MonkeyFinder\\MonkeyFinder\\obj\\",
+        "outputPath": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\PigFinder\\MonkeyFinder\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

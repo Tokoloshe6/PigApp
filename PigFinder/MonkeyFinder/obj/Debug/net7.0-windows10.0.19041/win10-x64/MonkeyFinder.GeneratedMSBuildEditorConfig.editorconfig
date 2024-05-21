@@ -8,29 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MonkeyFinder
-build_property.ProjectDir = C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\
+build_property.ProjectDir = C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/josep/Documents/GitHub/PigApp/MonkeyFinder/MonkeyFinder/App.xaml]
+[C:/Users/josep/Documents/GitHub/PigApp/PigFinder/MonkeyFinder/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/josep/Documents/GitHub/PigApp/MonkeyFinder/MonkeyFinder/AppShell.xaml]
+[C:/Users/josep/Documents/GitHub/PigApp/PigFinder/MonkeyFinder/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/josep/Documents/GitHub/PigApp/MonkeyFinder/MonkeyFinder/View/DetailsPage.xaml]
+[C:/Users/josep/Documents/GitHub/PigApp/PigFinder/MonkeyFinder/View/DetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.DetailsPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\DetailsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = View\DetailsPage.xaml
 
-[C:/Users/josep/Documents/GitHub/PigApp/MonkeyFinder/MonkeyFinder/View/MainPage.xaml]
+[C:/Users/josep/Documents/GitHub/PigApp/PigFinder/MonkeyFinder/View/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MonkeyFinder.View.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml

@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>F5784142-3F20-4DC0-8B93-737B40E52C6D</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>03FC91C73615C10B5C1A4145B7B3E18F4CCF8B68901264C7BB972A7017C3A1F4</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>F5784142-3F20-4DC0-8B93-737B40E52C6D_1.0.0.0_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>F5784142-3F20-4DC0-8B93-737B40E52C6D_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-21T00:26:22.223</Modified>
+      <Modified>2024-05-21T16:00:22.207</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-21T00:26:22.034</Modified>
+      <Modified>2024-05-21T16:00:21.942</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-20T23:27:55.502</Modified>
+      <Modified>2024-05-21T11:19:09.439</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2024-05-21T00:26:21.396</Modified>
+      <Modified>2024-05-21T11:19:08.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2024-05-21T00:26:21.399</Modified>
+      <Modified>2024-05-21T11:19:08.389</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\bin\Debug\net7.0-windows10.0.19041\win10-x64\MonkeyFinder.deps.json">
       <PackagePath>MonkeyFinder.deps.json</PackagePath>
-      <Modified>2024-05-20T23:34:45.241</Modified>
+      <Modified>2024-05-21T11:19:09.348</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\josep\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.18\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -949,251 +949,251 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-11-02T20:30:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-05-20T16:19:17.179</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\Resources\Raw\monkeydata.json">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\Resources\Raw\monkeydata.json">
       <PackagePath>monkeydata.json</PackagePath>
       <Modified>2024-05-20T16:19:17.205</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-100.png">
       <PackagePath>appiconfgSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.270</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-125.png">
       <PackagePath>appiconfgSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.287</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-150.png">
       <PackagePath>appiconfgSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.309</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-200.png">
       <PackagePath>appiconfgSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.340</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\sp\appiconfgSplashScreen.scale-400.png">
       <PackagePath>appiconfgSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:35.462</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-05-20T16:19:17.116</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\Roboto-Light.ttf">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\Roboto-Light.ttf">
       <PackagePath>Roboto-Light.ttf</PackagePath>
       <Modified>2024-05-21T00:23:36.408</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\Roboto-Medium.ttf">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\f\Roboto-Medium.ttf">
       <PackagePath>Roboto-Medium.ttf</PackagePath>
       <Modified>2024-05-21T00:22:10.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-05-20T16:19:35.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.916</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.952</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:36.022</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-05-20T16:19:35.631</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-05-20T16:19:35.636</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-05-20T16:19:35.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-05-20T16:19:35.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-05-20T16:19:35.646</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-05-20T16:19:35.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-05-20T16:19:35.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-05-20T16:19:35.625</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-05-20T16:19:35.607</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-05-20T16:19:35.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.538</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.543</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.550</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.553</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:35.561</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-05-20T16:19:35.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-05-20T16:19:35.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-05-20T16:19:35.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-05-20T16:19:35.574</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-05-20T16:19:35.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.754</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.765</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:35.798</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.695</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.700</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.716</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:35.734</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.663</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.668</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.673</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.680</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:35.689</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.805</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.816</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.851</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:35.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:35.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-05-20T16:19:35.627</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-05-20T16:19:35.688</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-05-20T16:19:35.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-05-20T16:19:36.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\josep\Documents\GitHub\PigApp\PigFinder\MonkeyFinder\obj\Debug\net7.0-windows10.0.19041\win10-x64\resizetizer\r\nodata.scale-100.png">
       <PackagePath>nodata.scale-100.png</PackagePath>
       <Modified>2024-05-20T16:19:17.159</Modified>
     </AppxPackagedFile>

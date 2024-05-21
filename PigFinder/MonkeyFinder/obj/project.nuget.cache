@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1E6TFNfldK3G5F4FNN/qVZ/WGIs1ThP2SO3djGCgRHutaxlNoFLGwlbGFr6aIz7PwsMAwPLYr6tSm26RGKwfew==",
+  "dgSpecHash": "bMQzINp7PIOz9OC94HtwgQVlT8fvFUZZp7yIwdIJijZJ8UCtnjAWsN/RuEXAmFXc433JRzM15IRfg6wQNb/LyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\MonkeyFinder\\MonkeyFinder\\MonkeyFinder.csproj",
+  "projectFilePath": "C:\\Users\\josep\\Documents\\GitHub\\PigApp\\PigFinder\\MonkeyFinder\\MonkeyFinder.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\communitytoolkit.maui\\6.1.0\\communitytoolkit.maui.6.1.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\communitytoolkit.maui.core\\6.1.0\\communitytoolkit.maui.core.6.1.0.nupkg.sha512",

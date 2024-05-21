@@ -1,0 +1,1 @@
+C:\Users\josep\Documents\GitHub\PigApp\MonkeyFinder\MonkeyFinder\MonkeyFinder.csproj;x64
